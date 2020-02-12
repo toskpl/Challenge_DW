@@ -208,7 +208,7 @@ model = DecisionTreeRegressor(max_depth=10,random_state=0)
 
 cross_val_score(model,X,y,cv=3,scoring='neg_mean_absolute_error')
 
-cores = cross_val_score(model,X,y,cv=3,scoring='neg_mean_absolute_error')
+scores = cross_val_score(model,X,y,cv=3,scoring='neg_mean_absolute_error')
 
 np.mean(scores), np.std(scores)
 
