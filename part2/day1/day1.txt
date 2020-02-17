@@ -1,0 +1,15 @@
+Przygotowanie srodowiska:
+Keras
+Tensorflow
+
+Instalacja:
+
+conda install Tensorflow
+conda install Keras
+
+import Tensorflow
+import Keras
+
+
+Tensorflow.__version__
+Keras.__version__
