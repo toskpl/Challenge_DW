@@ -1,4 +1,4 @@
-Przygotowanie srodowiska:
+Przygotowanie środowiska:
 Keras
 Tensorflow
 
