@@ -10,6 +10,5 @@ conda install keras
 import tensorflow
 import keras
 
-
 tensorflow.__version__
 keras.__version__
