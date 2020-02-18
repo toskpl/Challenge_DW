@@ -4,12 +4,12 @@ Tensorflow
 
 Instalacja:
 
-conda install Tensorflow
-conda install Keras
+conda install tensorflow
+conda install keras
 
-import Tensorflow
-import Keras
+import tensorflow
+import keras
 
 
-Tensorflow.__version__
-Keras.__version__
+tensorflow.__version__
+keras.__version__
