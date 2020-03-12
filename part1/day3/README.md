@@ -8,9 +8,11 @@ Uruchomienie jupytera w chmurze.
 4. Instalacja Anacondy.	
 5. Ustawienie firewall w google cloud (firewall rules)	
 6. jupyter notebook --generate-config 	
-  (otworzyc stworzony plik zmienic 2 rzeczy:     	
-     odkomentować c.NotebookApp.allow_orgin = '*'    	
-     odkomentować c.NotebookApp.ipconfig = '0.0.0.0' )	
+     otworzyc stworzony plik zmienic 2 rzeczy: 
+     - odkomentować c.NotebookApp.allow_orgin = '*'    	
+     - odkomentować c.NotebookApp.ipconfig = '0.0.0.0' )	
+     
    Zapisać zmiany.	
+   
 7. jupyter notebook - skopiować token	
 8. Teraz można odpalić jupytera w google cloud {External IP}:8888 i hasło jako token :-)
