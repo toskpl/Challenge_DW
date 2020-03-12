@@ -1,6 +1,6 @@
 Jupyter uruchomiony na google cloud.
 
-Dane z opóŸnieñ tramwajów w KRK
+Dane z opÃ³ÅºnieÅ„ tramwajÃ³w w KRK
 
 Proste modele:
 - DecisionTreeRegressor
