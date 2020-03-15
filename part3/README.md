@@ -5,3 +5,4 @@ Wyzwanie PART3
 - day1 - instalacja Socketio, Eventlet, Flask + symulator
 - day2 - uruchomienie modelu (już wytrenowany) do sterowania samochodu
 - day3 - przygotowanie danych w symulatorze do trenowania sieci neuronowej
+- day4 - generowanie danych
