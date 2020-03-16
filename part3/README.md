@@ -5,4 +5,5 @@ Wyzwanie PART3
 - day1 - instalacja Socketio, Eventlet, Flask + symulator
 - day2 - uruchomienie modelu (już wytrenowany) do sterowania samochodu
 - day3 - przygotowanie danych w symulatorze do trenowania sieci neuronowej
-- day4 - generowanie danych
+- day4 - generowanie danych - obróka zdjęć: imgaug
+- day5 - stworzenie modelu i wykorzystanie dnaych z dnia 3 i 4
