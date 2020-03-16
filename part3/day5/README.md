@@ -1,6 +1,6 @@
 Wykorzystano COLAB - runtime w trybie GPU.
 
-Wczytano dane ( X.npy, y.npy z dnia 3) i podano obróce (z dnia 4).
+Wczytano dane ( X.npy, y.npy z dnia 3) i podano obróbce (z dnia 4).
 
 Stworzono model sieci neuronowej.
 
