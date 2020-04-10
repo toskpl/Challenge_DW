@@ -1,7 +1,5 @@
 
 
-## Time Series - day2
-
-- wizualizacja
-- prosta predyckja
-- metryka sukcesu
+- Word2Vec - model NLP 
+- heatmap - wizualizacja
+- PCA - redukcja do 2 wymiarow
