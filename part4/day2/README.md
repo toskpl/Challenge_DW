@@ -1,4 +1,5 @@
 
+## NLP
 
 - Word2Vec - model NLP 
 - heatmap - wizualizacja
